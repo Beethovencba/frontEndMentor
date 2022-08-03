@@ -1,0 +1,9 @@
+.comentario__descricao {
+    
+    font-size: 13px;
+    line-height: 22px;
+    color: var(--azul-muito-escuro);
+    margin: 0;
+    padding-top: 3px;
+    word-spacing: 2px;
+}

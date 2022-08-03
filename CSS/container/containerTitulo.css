@@ -1,0 +1,10 @@
+.container__titulo {
+    font-family: 'Raleway';
+    text-align: left;
+    font-size: 2.45rem;
+    font-weight: 700;
+    line-height: 3.5rem;
+    margin: 0;
+    padding-right: 0;
+    color: var(--azul-muito-escuro);
+}

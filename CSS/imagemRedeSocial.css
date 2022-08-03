@@ -1,0 +1,22 @@
+/* 
+.lista-redesSociais {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    list-style-type: none;
+}
+
+.icone-redeSocial {
+    
+    font-size: 30px;
+}
+
+.link-redeSocial {
+
+    
+    background: var(--azul-muito-escuro);
+}
+
+.link-redeSocial:hover {
+    background: var(--azul-claro);
+} */

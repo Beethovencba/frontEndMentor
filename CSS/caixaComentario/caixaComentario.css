@@ -1,0 +1,10 @@
+.caixa__comentario {
+    display: flex;
+    flex-direction: column;
+    width: 21.5vw;
+    background: var(--azul-acinzentado-claro);
+    box-shadow: 0 0 1px var(--cinza-claro);
+    border-radius: 5px;
+    padding: 2rem 2rem 1rem;
+    margin-top: 1.5rem;
+}
