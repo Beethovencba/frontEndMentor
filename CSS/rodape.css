@@ -1,0 +1,27 @@
+.rodape {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 70px 1fr;
+    grid-template-areas: "a none none"
+                " b c d";
+    background: var(--azul-muito-escuro);
+    padding: 6rem 3rem 3rem;
+    
+}
+
+
+.logo {
+    grid-area: a;
+}
+
+.caixa-contato {
+    grid-area: b;
+}
+
+.caixa-secundaria {
+    grid-area: c;
+}
+
+.caixa-redeSocial {
+    grid-area: d;
+}

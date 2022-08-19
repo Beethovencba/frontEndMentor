@@ -1,0 +1,19 @@
+.container__botao {
+    background: var(--azul-claro);
+    border-radius: 3px;
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-left: 1rem;
+    padding: 1rem 0;
+    width: 13vw;
+    text-align: center;
+    border-style: none;
+    transition: 0.4s ease-in-out;
+}
+
+.container__botao:hover {
+    cursor: pointer;
+    opacity: calc(90%);
+    box-shadow: 2.5px 2.5px 0.5em var(--cinza-claro);
+}

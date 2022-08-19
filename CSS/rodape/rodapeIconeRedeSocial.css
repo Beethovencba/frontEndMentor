@@ -1,0 +1,37 @@
+.icone-redeSocial {
+    
+    background: var(--azul-muito-escuro);
+    color: #fefefe;
+    font-size: 0.75rem;
+    font-weight: 700;
+}
+
+.texte {
+    justify-content: space-evenly;
+    padding-right: 12rem;
+}
+
+
+
+
+.text1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--azul-muito-escuro);
+    width: 1.8rem;
+    height: 1.8rem;
+    border-radius: 100%;
+    border: 1.5px solid var(--cinza-claro)
+    
+}
+
+
+.lista-rodape:hover .icone-redeSocial {
+    color: var(--azul-claro);
+    
+}
+
+.lista-rodape:hover .text1 {
+    border-color: var(--azul-claro);
+}

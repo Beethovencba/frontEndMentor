@@ -1,0 +1,16 @@
+.container__input {
+    font-size: 13px;
+    padding: 1rem 0;
+    padding-left: 1rem;
+    width: 23vw;
+    border-radius: 2px;
+    text-align: left;
+    opacity: 50%;
+    border-style: none;
+    border: 1px solid;
+}
+
+/* .container__input:invalid {
+    border-color: 	#FF6347;
+    
+} */

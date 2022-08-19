@@ -1,0 +1,9 @@
+.menu {
+    
+    font-weight: 400;
+    margin-right: 3rem;
+}
+
+.menu__item {
+    text-decoration: none;
+}

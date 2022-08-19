@@ -1,0 +1,13 @@
+.menu__link {
+    padding-left: 3.5rem;
+    text-decoration: none;
+    color: var(--azul-muito-escuro);
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Raleway';
+}
+
+.menu__link:hover {
+    color: hsl(238, 22%, 44%);
+}
+

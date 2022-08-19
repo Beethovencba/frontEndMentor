@@ -1,0 +1,13 @@
+.container__descricao {
+    font-size: 1.25rem;
+    padding: 1.5rem;
+    font-weight: 400;
+    padding-left: 0;
+    color: var(--azul-muito-escuro);
+}
+
+.descricao-secundaria {
+    font-size: 1rem;
+    margin-right: 6rem;
+    margin-bottom: 0;
+}
